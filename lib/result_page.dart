@@ -18,7 +18,7 @@ class _ResultPageState extends State<ResultPage> {
   void share(BuildContext context, String question, String answer) {
     RenderBox? box = context.findRenderObject() as RenderBox;
 
-    String msg = 'Q: $question?\n A: $answer';
+    String msg = 'Q: $question?\nA: $answer';
     Share.share(msg,
         subject: 'และนี่ก็คือ! คำตอบที่พวกนายต้องการยังไงล่ะ!!!',
         sharePositionOrigin: box.localToGlobal(Offset.zero) & box.size);
