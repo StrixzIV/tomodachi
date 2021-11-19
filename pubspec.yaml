@@ -1,5 +1,5 @@
 name: tomodachi
-description: A web application built to help you decide what should you do when you don't have a friend to ask for.
+description: Ask your tomodachi เว็บแอปที่ถูกสร้างขึ้นมาเพื่อคนที่ต้องการให้ช่วยตัดสินใจเรื่องต่างๆ ที่ไม่รู้ว่าจะเอายังไงกับมันดี แต่ก็ไม่มีใครให้ปรึกษาก็สามารถมาปรึกษากับเราได้ แล้วเดี๋ยวคำตอบที่ได้มาก็จะเป็นทางออกให้กับพวกนายเอง (เว็ปแอปตัวนี้ได้รับแรงบันดาลใจมาจากหนังสือ "เพื่อนแท้" ของ Bearhug)
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
